@@ -1,0 +1,15 @@
+D:\GeekBrains\1 четверть\Chudo\bin\Debug\net6.0\Chudo.exe
+D:\GeekBrains\1 четверть\Chudo\bin\Debug\net6.0\Chudo.deps.json
+D:\GeekBrains\1 четверть\Chudo\bin\Debug\net6.0\Chudo.runtimeconfig.json
+D:\GeekBrains\1 четверть\Chudo\bin\Debug\net6.0\Chudo.dll
+D:\GeekBrains\1 четверть\Chudo\bin\Debug\net6.0\Chudo.pdb
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.csproj.AssemblyReference.cache
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.AssemblyInfoInputs.cache
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.AssemblyInfo.cs
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.dll
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\refint\Chudo.dll
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.pdb
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\Chudo.genruntimeconfig.cache
+D:\GeekBrains\1 четверть\Chudo\obj\Debug\net6.0\ref\Chudo.dll
